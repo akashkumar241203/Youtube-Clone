@@ -2,9 +2,9 @@
 #Home Page:
 
 
-![Home Page](Home-page.png?raw=true "Home page")
+![Home Page](Home-Page.png)
 
 #Video Page:
 
 
-![Video Page](Video-page.png?raw=true "Video page")
+![Video Page](Video-Page.png)
