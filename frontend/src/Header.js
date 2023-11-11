@@ -1,7 +1,7 @@
 // rfce
 import React, { useState } from 'react'
 import ytLogo from './images/yt-logo.png'
-import searchIcon from './images/search.png'
+import { ImSearch } from 'react-icons/im'
 import avtar from './images/avtar.png'
 import {BsFillMicFill} from 'react-icons/bs'
 import {GiHamburgerMenu} from 'react-icons/gi'
@@ -40,7 +40,7 @@ function Header() {
                 {/* <div class="header-search"></div> */}
                 <input class="header-search" placeholder='Search..'/>
                 <button class="search-button">
-                    <img class="small-image" src={searchIcon}></img>
+                   <ImSearch class="search"/>
                 </button>
                 <div class="header-mic">
                         <BsFillMicFill class="search-icon" />
