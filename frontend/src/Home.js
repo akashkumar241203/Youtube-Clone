@@ -128,6 +128,8 @@ function Home(){
                             <div className="nav-items white">Stocks</div>
                             <div className="nav-items white">Live</div>
                             <div className="nav-items white">Fashion</div>
+                            <div className="nav-items white">Records</div>
+                            <div className="nav-items white">Holiday</div>
 
                         </div>
                     </div>
