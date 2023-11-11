@@ -95,6 +95,8 @@ td, th {
   border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
   padding: 5px;
+  height: 40px;
+  width: 50px;
 }
 
 .search-icon{
